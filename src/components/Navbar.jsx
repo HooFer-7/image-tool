@@ -15,7 +15,7 @@ export default function Navbar() {
         {/* Logo */}
         <Link to="/" className="flex items-center gap-2 font-bold text-xl tracking-tight">
           <ImageIcon size={22} />
-          <span>PixelKit</span>
+          <span>PixelKit 1080</span>
         </Link>
 
         {/* Navigation Links */}

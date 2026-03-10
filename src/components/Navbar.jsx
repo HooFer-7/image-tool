@@ -16,7 +16,7 @@ export default function Navbar() {
         <Link to="/" className="flex items-center gap-2 font-bold text-xl tracking-tight">
           <img src={"/cropped.png"} alt="Pixe Edit Logo" className="w-6 h-6" />
           {/* <ImageIcon size={22} /> */}
-          <span>Pixe Edit</span>
+          <span>Pixy Edit</span>
         </Link>
 
         {/* Navigation Links */}

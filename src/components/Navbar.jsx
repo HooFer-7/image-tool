@@ -14,8 +14,9 @@ export default function Navbar() {
         
         {/* Logo */}
         <Link to="/" className="flex items-center gap-2 font-bold text-xl tracking-tight">
-          <ImageIcon size={22} />
-          <span>PixelKit 1080</span>
+          <img src={"/cropped.png"} alt="Pixe Edit Logo" className="w-6 h-6" />
+          {/* <ImageIcon size={22} /> */}
+          <span>Pixe Edit</span>
         </Link>
 
         {/* Navigation Links */}
